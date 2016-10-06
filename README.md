@@ -1,5 +1,5 @@
 # CheckIO Solutions  
-*A new repo to host my solutions to [checkio.org][1] problems*  
+*new and updated solutions for [checkio.org][1] exercises, in python3*  
 follow my @[msmyxz][2]
 
 
